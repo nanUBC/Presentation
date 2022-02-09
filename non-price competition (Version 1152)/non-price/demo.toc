@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Quality}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Monopoly with Quality Competition}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Market Equilibrium with Quality Difference}{20}{0}{1}
+\beamer@sectionintoc {2}{Advertising}{42}{0}{2}
+\beamer@subsectionintoc {2}{1}{Views on Advertising}{42}{0}{2}
+\beamer@subsectionintoc {2}{2}{Positive Analysis of Advertising}{47}{0}{2}
+\beamer@subsectionintoc {2}{3}{Normative Analysis of Advertising}{51}{0}{2}
+\beamer@subsectionintoc {2}{4}{Empirical Findings and New Direction}{56}{0}{2}
